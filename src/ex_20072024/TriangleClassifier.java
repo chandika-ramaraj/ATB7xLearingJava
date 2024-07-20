@@ -11,6 +11,6 @@ public class TriangleClassifier {
         else
             System.out.println("Scalene Triangle");
     }
-    }
+}
 
 
